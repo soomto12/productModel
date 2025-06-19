@@ -34,6 +34,12 @@ Add to Cart
     <div className=" w-3 h-3 bg-green-400 rounded-full hover:animate-ping "> </div>
     <div className="text-sm"> 50+ pcs. in stock</div>
   </div>
+  <div className="flex flex-col space-y-4 md:space-x-4 md:space-y-0 md:flex-row">
+    <button>
+      <img src="/weight.png" alt="weightImg" className="w-8"/>
+    </button>
+    <span> Add to cart</span>
+  </div>
 </div>
 </div>
 </div>
